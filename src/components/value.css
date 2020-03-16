@@ -1,0 +1,14 @@
+#value{
+    padding-top: 10%;
+}
+
+.value-row > .col-md-4 > img {
+  height: 123px;
+  padding-bottom: 10px;
+}
+
+.value-row > .col-md-4 {
+  padding-bottom: 20px;
+  text-align: center;
+  color: #1F7AC4 !important;
+}

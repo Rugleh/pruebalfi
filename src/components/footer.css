@@ -1,0 +1,19 @@
+#footer{
+    background-color: #001B3C
+}
+.rrss img{
+    padding-right: 10px;
+}
+
+.form-control-custom {
+    border-radius: 50px !important;
+    background-color: black !important;
+  }
+
+.btn-orange {
+padding-left: 40px !important;
+padding-right: 40px !important;
+color: white !important;
+background-color: #fba825 !important;
+border-radius: 50px !important;
+}

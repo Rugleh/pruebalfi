@@ -1,0 +1,17 @@
+#clients{
+    padding-top: 100px;
+}
+
+.InfiniteCarouselSlide img{
+    height: 56px;
+    width: auto !important;
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.InfiniteCarouselDots {
+   top: auto !important;
+   bottom: auto !important;
+   padding-top: 10px;
+}

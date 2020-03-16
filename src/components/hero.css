@@ -1,0 +1,25 @@
+
+
+    
+    .div1 { 
+      
+        background-color: #001B3C;
+        height: 600px;
+       
+    }
+
+    .content{
+
+        padding-top: 15% !important;
+        color: white;
+    }
+    
+
+    .div2 { 
+       
+        background-image: url('../assets/images/hero1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+    }
+
